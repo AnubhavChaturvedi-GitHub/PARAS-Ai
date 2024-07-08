@@ -1,5 +1,7 @@
 # Paras AI
 
+![screenshot](https://github.com/AnubhavChaturvedi-GitHub/PARAS-Ai/blob/main/p.jpg)
+
 ## Introduction
 
 Paras is a web-based application designed to [briefly describe the purpose or function of your project]. This project includes HTML, CSS, JavaScript, and various data files to create a fully functional web application.
