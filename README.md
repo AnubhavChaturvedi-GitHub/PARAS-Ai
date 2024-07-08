@@ -1,4 +1,4 @@
-# Paras Project
+# Paras AI
 
 ## Introduction
 
@@ -11,7 +11,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/paras.git
+    https://github.com/AnubhavChaturvedi-GitHub/PARAS-Ai.git
     ```
 2. Navigate to the project directory:
     ```bash
