@@ -17,7 +17,7 @@ To set up the project locally, follow these steps:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd paras
+    cd paras-ai
     ```
 3. Open `index.html` in your preferred web browser to view the application.
 
