@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PARAS Ai</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <div class="chat-container">
+    <div class="sidebar">
+      <div class="chats">
+        <h2>Chats</h2>
+        <div class="chat-list" id="chat-list">
+          <!-- Chat list will be appended here -->
+        </div>
+      </div>
+      <div class="sidebar-buttons">
+        <button id="new-chat-button">New Chat</button>
+        <button id="delete-chat-button">Delete Chat History</button>
+        <a id="download-history-button" href="#">Download Chat History</a>
+      </div>
+    </div>
+    <div class="main-chat">
+      <div class="header">
+        <div class="chat-title" id="chat-title">Chat 1</div>
+        <div class="watermark">PARAS-AI</div>
+        <div class="help-button" id="help-button">?</div>
+      </div>
+      <div class="chat-box" id="chat-box">
+      </div>
+      <div class="input-container">
+        <input type="text" id="user-input" placeholder="Type eg: I have issue in my head from 3 days">
+        <div id="send-icon" class="send-icon"></div>
+      </div>
+    </div>
+  </div>
+  <div id="help-modal" class="help-modal">
+    <div class="help-modal-content">
+      <span id="close-help" class="close-help">&times;</span>
+      <h2>Support & Social Media</h2>
+      <ul>
+        <li><a href="#">Support</a></li>
+        <li><a href="#">Social Media</a></li>
+      </ul>
+    </div>
+  </div>
+  <audio id="message-sound">
+    <source src="{{ url_for('static', filename='audio/bg.mp3') }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+[0708/141511.372:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0708/141511.376:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0708/141511.376:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0708/141511.377:ERROR:disk_cache.cc(208)] Unable to create cache
+[0708/141511.378:ERROR:gpu_disk_cache.cc(711)] Gpu Cache Creation failed: -2
+[0708/141511.379:ERROR:disk_cache.cc(208)] Unable to create cache
+[0708/141511.382:ERROR:gpu_disk_cache.cc(711)] Gpu Cache Creation failed: -2
+[0708/141511.382:ERROR:disk_cache.cc(208)] Unable to create cache
+[0708/141511.382:ERROR:gpu_disk_cache.cc(711)] Gpu Cache Creation failed: -2
+[0708/141511.807:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0708/141511.807:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0708/141511.807:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0708/141511.807:ERROR:disk_cache.cc(208)] Unable to create cache
+[0708/141511.808:ERROR:gpu_disk_cache.cc(711)] Gpu Cache Creation failed: -2
+[0708/141511.809:ERROR:disk_cache.cc(208)] Unable to create cache
+[0708/141511.809:ERROR:gpu_disk_cache.cc(711)] Gpu Cache Creation failed: -2
+[0708/141511.809:ERROR:disk_cache.cc(208)] Unable to create cache
+[0708/141511.811:ERROR:gpu_disk_cache.cc(711)] Gpu Cache Creation failed: -2
+[0708/141513.398:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\chatu\OneDrive\Desktop\Paras\chromedata\Default\shared_proto_db\metadata: IO error: C:\Users\chatu\OneDrive\Desktop\Paras\chromedata\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0708/141515.406:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\chatu\OneDrive\Desktop\Paras\chromedata\Default\shared_proto_db\metadata: IO error: C:\Users\chatu\OneDrive\Desktop\Paras\chromedata\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0708/141517.425:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\chatu\OneDrive\Desktop\Paras\chromedata\Default\shared_proto_db\metadata: IO error: C:\Users\chatu\OneDrive\Desktop\Paras\chromedata\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0708/141519.438:WARNING:leveldb_database.cc(123)] Unable to open C:\Users\chatu\OneDrive\Desktop\Paras\chromedata\Default\shared_proto_db\metadata: IO error: C:\Users\chatu\OneDrive\Desktop\Paras\chromedata\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0708/170255.032:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[0708/170255.032:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[0708/170255.217:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[0708/170255.269:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[0708/170255.269:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.

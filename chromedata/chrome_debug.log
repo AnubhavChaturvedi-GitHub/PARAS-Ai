@@ -1,0 +1,20 @@
+[13300:6600:0708/141430.996:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 126.0.6478.127 (not a warning)
+[13300:6600:0708/141431.155:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[13300:6600:0708/141431.191:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[8784:7624:0708/141431.527:INFO:cpu_info.cc(53)] Available number of cores: 8
+[11796:4268:0708/141431.620:INFO:cpu_info.cc(53)] Available number of cores: 8
+[8540:11108:0708/141432.002:INFO:cpu_info.cc(53)] Available number of cores: 8
+[15236:12760:0708/141432.072:INFO:cpu_info.cc(53)] Available number of cores: 8
+[13300:6600:0708/141441.813:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5161
+[13300:6600:0708/141441.823:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[13300:6600:0708/141442.348:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
+[13300:6600:0708/141442.498:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[13300:6600:0708/141442.698:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45139
+[13300:6600:0708/141442.989:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[13300:6600:0708/141443.081:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747170
+[13300:6600:0708/141443.251:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:3844
+[13300:6600:0708/141443.746:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[14844:11516:0708/141452.363:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[14844:8608:0708/141452.364:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[14844:8608:0708/141452.364:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[13300:6600:0708/141452.547:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
