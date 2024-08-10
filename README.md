@@ -74,4 +74,4 @@ This project is licensed under the [Specify License, e.g., MIT License]. See the
 
 ## Contact
 
-For any questions, feedback, or suggestions, please reach out to [Anubhav Chaturvedi](mailto:chaturvedianubhav520@gmail.com).
+For any questions, feedback, or suggestions, please reach out to [Anubhav Chaturvedi](mailto:chaturvedianubhav520@gmail.com). 😊
